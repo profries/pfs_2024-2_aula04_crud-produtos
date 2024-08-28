@@ -1,0 +1,14 @@
+{
+  "name": "crud_produtos",
+  "version": "1.0.0",
+  "description": "CRUD de produtos",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Ries",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
